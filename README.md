@@ -1,4 +1,5 @@
-# Papa Johns: New Papa Bowls
+# New Feature Test Plan with Test Cases
+## Papa Johns: New Papa Bowls
 
 ## Description
 The newly added feature is a new offering for Papa Bowls on the Pizza Company website. 
@@ -14,6 +15,9 @@ We are testing the Papa Bowls page. It has been newly created in the launch of t
 ## Assumptions: 
 - You are able to gain access to Papa Johns Website Homepage at https://www.papajohns.com/
 - Navigate to the Papa Bowls page: https://www.papajohns.com/order/dealbuilder?dealId=33605 or from a homepage link to Papa Bowls
+
+------
+# Test Cases: PB1 to PB 13
 
 Case ID - PB1
 - Date- 10/8/22 
