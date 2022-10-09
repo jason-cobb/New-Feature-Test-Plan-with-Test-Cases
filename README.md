@@ -11,7 +11,9 @@ We are testing the Papa Bowls page. It has been newly created in the launch of t
 - Chicken Alfredo Bowl
 - Create Your Own Papa Bowl
 
-Assumptions: You are able to gain access to Papa Johns Website Homepage at www.papajohns.com
+Assumptions: 
+- You are able to gain access to [Papa Johns Website Homepage ](www.papajohns.com) 
+- Navigate to the Papa Bowls page: https://www.papajohns.com/order/dealbuilder?dealId=33605 or from a homepage link to Papa Bowls
 
 Case ID - PB1
 - Date- 10/8/22 
