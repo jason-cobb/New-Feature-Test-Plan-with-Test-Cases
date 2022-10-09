@@ -13,7 +13,7 @@ We are testing the Papa Bowls page. It has been newly created in the launch of t
 
 Assumptions: You are able to gain access to Papa Johns Website Homepage at www.papajohns.com
 
-Case ID - 0 
+Case ID - PB1
 - Date- 10/8/22 
 - Test Type - Critical Path
 - Preconditions: Get to the Papa Bowls page: https://www.papajohns.com/order/dealbuilder?dealId=33605 or from a homepage link to Papa Bowls
@@ -24,7 +24,7 @@ Case ID - 0
 - Pass/Fail : Pass
 
 
-Case ID - 1
+Case ID - PB2
 - Date- 10/8/22
 - Test Type - Critical Path
 - Preconditions - Get to the Papa Bowls page: https://www.papajohns.com/order/dealbuilder?dealId=33605 or from a homepage link to Papa Bowls
@@ -34,7 +34,7 @@ Case ID - 1
 - Actual test result: Pop up customizer appears with Add To Deal, and Cancel buttons
 - Pass/Fail : Pass
 
-Case ID - 2
+Case ID - PB3
 - Date - 10/8/2022
 - Test Type - Critical Path
 - Preconditions - Get to the Papa Bowls page: https://www.papajohns.com/order/dealbuilder?dealId=33605 or from a homepage link to Papa Bowls
@@ -44,7 +44,7 @@ Case ID - 2
 - Actual test result: Bowl is added to the cart
 - Pass/Fail : Pass
 
-Case ID - 3
+Case ID - PB4
 - Date- 10/8/22
 - Test Type - Critical Path
 - Preconditions - Get to the Papa Bowls page: https://www.papajohns.com/order/dealbuilder?dealId=33605 or from a homepage link to Papa Bowls
@@ -54,7 +54,7 @@ Case ID - 3
 - Actual test result: Pop up customizer appears with Add To Deal, and Cancel buttons
 - Pass/Fail : Pass
 
-Case ID - 4
+Case ID - PB5
 - Date - 10/8/2022
 - Test Type - Critical Path
 - Preconditions - Get to the Papa Bowls page: https://www.papajohns.com/order/dealbuilder?dealId=33605 or from a homepage link to Papa Bowls
@@ -64,18 +64,18 @@ Case ID - 4
 - Actual test result: Bowl is added to the cart
 - Pass/Fail : Pass
 
-Case ID - 5
-Date- 10/8/22
-Test Type - Critical Path
-Preconditions - Get to the Papa Bowls page: https://www.papajohns.com/order/dealbuilder?dealId=33605 or from a homepage link to Papa Bowls
-Test Steps: Click the Chicken Alfredo Bowl - Customize button
-Expected Results: Customize page pops up
-Post Conditions: Pop up has appeared to customize the bowl with Base, Cheese, Meats, Veggies options
-Actual test result: Pop up customizer appears with Add To Deal, and Cancel buttons
+Case ID - PB6
+- Date- 10/8/22
+- Test Type - Critical Path
+- Preconditions - Get to the Papa Bowls page: https://www.papajohns.com/order/dealbuilder?dealId=33605 or from a homepage link to Papa Bowls
+- Test Steps: Click the Chicken Alfredo Bowl - Customize button
+- Expected Results: Customize page pops up
+- Post Conditions: Pop up has appeared to customize the bowl with Base, Cheese, Meats, Veggies options
+- Actual test result: Pop up customizer appears with Add To Deal, and Cancel buttons
 - Pass/Fail : Pass
 
 
-Case ID - 7
+Case ID - PB7
 - Date- 10/8/22
 - Test Type - Critical Path
 - Preconditions - Get to the Papa Bowls page: https://www.papajohns.com/order/dealbuilder?dealId=33605 or from a homepage link to Papa Bowls
@@ -86,7 +86,7 @@ Case ID - 7
 - Pass/Fail : Pass
 
 
-Case ID - 8
+Case ID - PB8
 - Date- 10/8/22
 - Test Type - Critical Path
 - Preconditions - Get to the Papa Johns homepage.
@@ -97,7 +97,7 @@ https://www.papajohns.com
 - Actual test result: Taken to the Papa Bowls order page
 - Pass/Fail : Pass
 
-Case ID - 9
+Case ID - PB9
 - Date- 10/8/22
 - Test Type - Critical Path
 - Preconditions - Get to the Papa Johns Menu page
@@ -108,7 +108,7 @@ https://www.papajohns.com/order/menu or from a homepage link to Menu
 - Actual test result: Taken to the Papa Bowls order page
 - Pass/Fail : Pass
 
-Case ID - 10
+Case ID - PB10
 - Date- 10/8/22
 - Test Type - Critical Path
 - Preconditions - Get to the Papa Johns Specials page
@@ -121,7 +121,7 @@ https://www.papajohns.com/order/specials or from a homepage link to Specials
 - Notes: Hyperlink needs to be added to the picture on the Specials page as it is on the Menu page
 
 
-Case ID - 11
+Case ID - PB11
 - Date- 10/8/22
 - Test Type - Regression - Test previous functionality of most popular order items from page where new link was added for the new Papa Bowl item
 - Preconditions - Get to the Papa Johns Menu page
@@ -133,7 +133,7 @@ Six Different Crust Options are available in scrollable Boxes : Find Original Cr
 - Actual test result: Taken to the Customize Pizza Order page for Original Crust
 - Pass/Fail : Pass
 
-Case ID - 12
+Case ID - PB12
 - Date- 10/8/22
 - Test Type - Regression - Test previous functionality of most popular order items from page where new link was added for the new Papa Bowl item
 - Preconditions - Get to the Papa Johns Specials Page
@@ -144,7 +144,7 @@ https://www.papajohns.com/order/specials
 - Actual test result: Taken to the Customize Pizza Order page for 1-Topping Pizza
 - Pass/Fail : Pass
 
-Case ID - 13
+Case ID - PB13
 - Date- 10/8/22
 - Test Type - Regression - Test previous functionality of most popular order items from page where new link was added for the new Papa Bowl item
 - Preconditions - Get to the Papa Johns Homepage
@@ -156,7 +156,7 @@ https://www.papajohns.com/
 - Pass/Fail : Pass
 
 ## Conclusion
-### One test failed: Case ID 10. 
+### One test failed: Case ID PB10. 
 This bug is only a partial fail as one of the two components still netted the user the ability to process to the desired link of "Order Now" but was not consistant with the other area of the site where the picture of the bowl also had a hyperlink to take the user to the order page.
 
 
